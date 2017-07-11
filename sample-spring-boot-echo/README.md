@@ -6,8 +6,8 @@ sample-spring-boot-echo is a tiny sample bot application based on Spring Boot.
 
 Run this sample bot using Gradle.
 
-    ../gradlew bootRun -Dline.bot.channelToken=YOUR_CHANNEL_TOKEN \
-                       -Dline.bot.channelSecret=YOUR_CHANNEL_SECRET
+    ../gradlew bootRun -Dline.bot.channelToken=62D2k2ey26C+l+Jt4d63XyKUnVpsoOhGI1/BFr2cZseyEi4GbRatHzssA82IR8Z6YpluORGch45k0Xk33e7Wi9ZzUqJn9lKBa3P2hyvQL/4RXUi6nkWI8bt1A0JEZ3h/1H0oNDuIDUOS881uIY0BXAdB04t89/1O/w1cDnyilFU= \
+                       -Dline.bot.channelSecret=6f1fe387fa6c923659a4d5f3ed1ae508
 
 or if you finished create `src/main/resources/application.yml` file based on `src/main/resources/application-template.yml`. You can start configured web server just hitting
 
